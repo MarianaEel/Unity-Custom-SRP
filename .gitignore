@@ -1,5 +1,5 @@
-UniGLTF
-VRM
-VRMShaders
-GLTF
-.meta
+UniGLTF/
+VRM/
+VRMShaders/
+GLTF/
+*.meta
